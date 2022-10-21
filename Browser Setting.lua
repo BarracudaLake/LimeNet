@@ -1,5 +1,6 @@
-local Setting = {}
+local Setting = {TemplateKON = {}, BarraBrowser = {}}
 
-TemplateKON_Is_Live = true
+Setting.TemplateKON.IsLive = true
+Setting.BarraBrowser.IsLive = true
 
 return Setting
