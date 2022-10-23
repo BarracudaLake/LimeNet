@@ -1,6 +1,7 @@
 local setting = {
   BaBr = {
-    isLive = false
+    isLive = true
+    version = "betabuild"
   },
   TepK = {
     isLive = false
