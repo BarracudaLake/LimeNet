@@ -6,3 +6,5 @@ local setting = {
     isLive = false
   }
 }
+
+return setting()
