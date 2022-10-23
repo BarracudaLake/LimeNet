@@ -2,7 +2,10 @@ local setting = {
   BaB = {
     isLive = true
   },
-  TpK ={
+  TpK = {
+    isLive = false
+  }
+  Pwsr = {
     isLive = false
   }
 }
