@@ -1,4 +1,4 @@
-local web = website("Barracudas Browser")
+local web = website("Barracudas Browser - The First LimeNet Browser")
 
 local Text = new("TextLabel",web)
 Text.Size = UDim2.fromScale(1,1)
