@@ -1,13 +1,13 @@
 --say Thanks, Idiot!
 local setting = {
-  BaBr = {
+  ["BaBr"] = {
     isLive = true,
     version = "betabuild"
   },
-  TepK = {
+  ["TepK"] {
     isLive = false
   },
-  Pwsr = {
+  ["Pwsr"] = {
     isLive = false
   }
 }
