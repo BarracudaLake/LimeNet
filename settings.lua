@@ -1,11 +1,12 @@
+--say Thanks, Idiot!
 local setting = {
   BaBr = {
-    isLive = true
+    isLive = true,
     version = "betabuild"
   },
   TepK = {
     isLive = false
-  }
+  },
   Pwsr = {
     isLive = false
   }
