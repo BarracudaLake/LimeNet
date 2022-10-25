@@ -4,7 +4,7 @@ local setting = {
     isLive = true,
     version = "betabuild"
   },
-  ["TepK"] {
+  ["TepK"] = {
     isLive = false
   },
   ["Pwsr"] = {
