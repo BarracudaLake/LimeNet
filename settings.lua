@@ -11,4 +11,4 @@ local setting = {
   }
 }
 
-return setting()
+return setting
