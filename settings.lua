@@ -1,7 +1,7 @@
 --will do
 local setting = {
   ["BaBr"] = {
-    isLive = true,
+    isLive = false,
     version = "beta;build"
   },
   ["TepK"] = {
