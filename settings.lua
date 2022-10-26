@@ -9,6 +9,9 @@ local setting = {
   },
   Pwsr = {
     isLive = false
+  },
+  LmIP = {
+    isLive = false
   }
 }
 
