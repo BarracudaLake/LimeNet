@@ -1,8 +1,8 @@
---say Thanks, Idiot!
+--will do
 local setting = {
   ["BaBr"] = {
     isLive = true,
-    version = "betabuild"
+    version = "beta;build"
   },
   ["TepK"] = {
     isLive = false
