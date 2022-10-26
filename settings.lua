@@ -1,13 +1,13 @@
 --will do
 local setting = {
-  ["BaBr"] = {
+  BaBr = {
     isLive = false,
     version = "beta;build"
   },
-  ["TepK"] = {
+  TepK = {
     isLive = false
   },
-  ["Pwsr"] = {
+  Pwsr = {
     isLive = false
   }
 }
