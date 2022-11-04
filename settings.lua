@@ -8,7 +8,8 @@ local setting = {
     isLive = false
   },
   Pwsr = {
-    isLive = false
+    isLive = true,
+    version = "alpha"
   },
   LmIP = {
     isLive = false
