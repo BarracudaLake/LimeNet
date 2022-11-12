@@ -1,9 +1,8 @@
 -- website stuff
 local web = website("VideoPop")
-local nav
 
 -- creating elements
-local logo = new("ImageLabel",nav)
+local logo = new("ImageLabel",web)
 
 -- element editing
 logo.Size = UDim2.fromScale(0.1,1)
