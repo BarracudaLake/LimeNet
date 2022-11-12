@@ -1,6 +1,6 @@
 -- website stuff
 local web = website("VideoPop")
-local nav = topbar()
+local nav
 
 -- creating elements
 local logo = new("ImageLabel",nav)
